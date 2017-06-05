@@ -11,7 +11,7 @@ ReactDOM.render(
       <Webpage />
     </div>
   ),
-  document.getElementById('main')
+  document.getElementById('root')
 );
 
 require('./test/index-test.js'); // Leave this in!

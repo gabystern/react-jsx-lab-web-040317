@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Practice using JSX in your React components",
   "engines": {
-    "node": "6.x",
+    "node": "6.9.2",
     "npm": "3.x"
   },
   "main": "index.js",
